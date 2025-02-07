@@ -10,11 +10,11 @@ This project focuses on analyzing and visualizing COVID-19 data to provide actio
 
 ✅ Present findings through interactive dashboards to facilitate data-driven decision-making.
 
-### Background 🏥
+## Background 🏥
 
 The COVID-19 pandemic, which originated in Wuhan, China, in late 2019, had a profound impact on global health and economies. Governments and organizations worldwide struggled to translate vast amounts of COVID-19 data into actionable insights. This project addresses this challenge by providing a comprehensive analysis of COVID-19 trends and vaccination progress.
 
-### Objectives 🎯
+## Objectives 🎯
 
 📌 Analyze COVID-19 Trends: Examine trends in confirmed cases, recoveries, and fatalities.
 
@@ -22,7 +22,7 @@ The COVID-19 pandemic, which originated in Wuhan, China, in late 2019, had a pro
 
 📌 Create Interactive Dashboards: Develop Tableau dashboards to visualize key insights and facilitate decision-making.
 
-#### Data Collection 📊
+## Data Collection 📊
 
 The dataset used in this project was obtained from the World Health Organization (WHO) and the World Bank. It includes:
 
@@ -56,7 +56,7 @@ The dataset used in this project was obtained from the World Health Organization
 
 📌 Data Source: World Health Organization (WHO)
 
-##### Data Cleaning and Preprocessing 🛠️
+## Data Cleaning and Preprocessing 🛠️
 
 Tools Used:
 
@@ -76,7 +76,7 @@ Checked for data types, null values, and missing data.
 
 Saved the cleaned data into a new Excel file for Tableau visualization.
 
-###### Data Visualization with Tableau 📊
+## Data Visualization with Tableau 📊
 
 Audience 👥
 
@@ -90,7 +90,7 @@ The dashboard was designed for:
 
 👨‍👩‍👧‍👦 General Public – To stay informed about the pandemic.
 
-##### Key Performance Indicators (KPIs)📌 
+## Key Performance Indicators (KPIs)📌 
 
 📊 Total Confirmed Cases, Recoveries, and Deaths
 
@@ -102,7 +102,7 @@ The dashboard was designed for:
 
 🏥 Case Breakdown by WHO Region
 
-##### Charts Used 📈
+## Charts Used 📈
 
 🗺️ Map: Displayed population and COVID-19 cases by country.
 
@@ -112,7 +112,7 @@ The dashboard was designed for:
 
 🥧 Pie Charts: Displayed vaccine distribution by country.
 
-#### Dashboard Features 🖥️
+## Dashboard Features 🖥️
 
 The Tableau dashboard provides an interactive and comprehensive view of COVID-19 data. Key features include:
 
@@ -126,7 +126,7 @@ The Tableau dashboard provides an interactive and comprehensive view of COVID-19
 
 🔗 Click (https://drive.google.com/file/d/1ZW_dd-yhfeFb0ULcds8mTzpuoWK4qWws/view?usp=sharing) to view the Tableau dashboard
 
-#### Insights 🔍
+## Insights 🔍
 
 🔹 Top Populous Countries:
 
@@ -154,7 +154,7 @@ The Americas region had the highest death toll.
 
 Pfizer-BioNTech, Moderna, and Janssen were the most widely used vaccines.
 
-#### Recommendations 📢
+## Recommendations 📢
 
 ✅ Vaccination Prioritization: Countries with large populations should increase vaccination coverage.
 
@@ -166,7 +166,7 @@ Pfizer-BioNTech, Moderna, and Janssen were the most widely used vaccines.
 
 ✅ Vaccine Distribution: Stable supply chains should be ensured for widely used vaccines like Pfizer-BioNTech and Moderna.
 
-#### Acknowledgements 🙏
+## Acknowledgements 🙏
 
 This project would not have been possible without the following resources and support:
 
@@ -182,11 +182,11 @@ This project would not have been possible without the following resources and su
 
 🤝 Open-Source Community: For providing valuable tools and libraries that supported this project.
 
-#### Conclusion 🎯
+## Conclusion 🎯
 
 This project highlights the importance of data-driven decision-making in managing the COVID-19 pandemic. By analyzing trends and vaccination progress, areas for improvement were identified, and effective strategies to combat the virus were proposed. The interactive Tableau dashboards provide a user-friendly platform for exploring COVID-19 data and gaining actionable insights.
 
-#### Contact 📬
+## Contact 📬
 
 For questions or feedback, feel free to reach out:
 
